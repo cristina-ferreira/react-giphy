@@ -1,0 +1,31 @@
+body {
+  font-family: Helvetica;
+}
+
+#root {
+  padding-top: 50px;
+  display: flex;
+}
+
+.giflist {
+  width: 20vw;
+  height: 20vh;
+}
+
+img {
+  width: 100%;
+}
+
+h3 {
+  display: inline;
+  padding-right: 10px;
+}
+
+.submit {
+  margin-left: 5px;
+}
+
+.selected-gif {
+  width: 40vw; 
+  height: 40vh;
+}
